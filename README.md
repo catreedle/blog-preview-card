@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-I stregthened what I learned from the first challenge, mainly on how to position elements correctly. I also learned to use `:hover` and `:focus` properties on CSS, though I am not fully sure of which elements need to be interactive.
+I stregthened what I learned from the first challenge, mainly on how to position elements correctly. I also learned to use `:hover` and `:focus` properties on CSS.
 
 I am still looking for a way to reduce font size for smaller screens without using media queries.
 
